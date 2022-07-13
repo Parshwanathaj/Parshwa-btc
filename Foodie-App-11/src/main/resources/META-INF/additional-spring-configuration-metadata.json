@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "RECIPE_API_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'RECIPE_API_URL'"
+  },
+  {
+    "name": "RECIPE_API_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'RECIPE_API_URL'"
+  },
+  {
+    "name": "RECIPE_API_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'RECIPE_API_URL'"
+  },
+  {
+    "name": "RECIPE_API_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'RECIPE_API_URL'"
+  }
+]}
