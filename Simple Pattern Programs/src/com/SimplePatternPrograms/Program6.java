@@ -18,3 +18,20 @@ public class Program6
 		}
 	}
 }
+//public class Pascal {
+//    public static void main(String[] args) {
+//        int lines = 5;
+//        int num = 1;
+//
+//        for(int i=0; i<lines; i++){
+//            num=1;
+//            System.out.printf("%"+(lines-i)+"s","");
+//            for(int j=0; j<=i; j++){
+//                System.out.print(num+"  ");
+//                num = num * (i - j) / (j + 1);
+//            }
+//            System.out.println();
+//        }
+//
+//    }
+//}

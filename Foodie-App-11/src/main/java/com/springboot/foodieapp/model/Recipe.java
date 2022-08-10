@@ -27,7 +27,4 @@ public class Recipe {
 	
 	@JsonProperty("strMealThumb")
 	private String itemView;
-	
-	
-	
 }
